@@ -1,0 +1,5 @@
+C:\Users\victor.silva\Documents\Estudos\Udemy\CleanArchMvcCurse\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net6.0\CleanArchMvc.IoC.csproj.AssemblyReference.cache
+C:\Users\victor.silva\Documents\Estudos\Udemy\CleanArchMvcCurse\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net6.0\CleanArchMvc.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.silva\Documents\Estudos\Udemy\CleanArchMvcCurse\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net6.0\CleanArchMvc.IoC.AssemblyInfoInputs.cache
+C:\Users\victor.silva\Documents\Estudos\Udemy\CleanArchMvcCurse\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net6.0\CleanArchMvc.IoC.AssemblyInfo.cs
+C:\Users\victor.silva\Documents\Estudos\Udemy\CleanArchMvcCurse\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net6.0\CleanArchMvc.IoC.csproj.CoreCompileInputs.cache
